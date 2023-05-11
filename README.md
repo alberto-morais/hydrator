@@ -7,7 +7,7 @@ PHP Library to hydrate objects with class setters
 ## Instalation
 
 ```
-composer require ferfabricio/hydrator
+composer require am2tec/hydrator
 ```
 
 ## How use
