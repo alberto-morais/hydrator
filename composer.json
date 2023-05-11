@@ -1,5 +1,5 @@
 {
-    "name": "ferfabricio/hydrator",
+    "name": "am2tec/hydrator",
     "description": "Hydrate your object with class setters",
     "type": "library",
     "keywords": [
@@ -29,6 +29,6 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "php": "^7.0"
+        "php": "^7.0|^8.1"
     }
 }
